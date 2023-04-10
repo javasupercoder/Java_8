@@ -11,7 +11,7 @@ public class ReverseSortingPrimitiveIntNumbers {
  
         // 1. List - 10 numbers in random order
         List<Integer> numbers = Arrays.asList(
-                35, 15, 10, 5, 50, 20, 45, 30, 25, 40
+                35, 15, 10, 5, 50, 20, 45, 30, 25, 40,50
                 );
  
         // pretty print numbers in random order
