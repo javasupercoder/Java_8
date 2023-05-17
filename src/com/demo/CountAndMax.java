@@ -16,5 +16,8 @@ public class CountAndMax {
 		  
 		System.out.println("Max number = "+max);
 		System.out.println("End of code");
+		
+		System.out.println("End of code from Github website");
+		
 	}
 }
