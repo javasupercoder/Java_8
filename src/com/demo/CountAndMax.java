@@ -15,5 +15,6 @@ public class CountAndMax {
 		int max=numbers.stream().max(Integer::compare).get();
 		  
 		System.out.println("Max number = "+max);
+		System.out.println("End of code");
 	}
 }
