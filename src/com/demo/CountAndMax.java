@@ -19,6 +19,8 @@ public class CountAndMax {
 		
 		System.out.println("End of code from Github website");
 		System.out.println("End of code from Github website try 1");
+		System.out.println("End of the code 18 oct");
+		System.out.println("End of the code 18 oct...");
 		
 	}
 }
